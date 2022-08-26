@@ -9,6 +9,13 @@
 - 📫 How to reach me: [Telegram](t.me/shamnad_sherief)
 - ⚡ Visit [my blog](https://deadcoderblog.blogspot.com/)
 
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shamnad-sherief&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
 ## My Skill Set  
@@ -57,6 +64,8 @@
 </td></tr></table>  
 
 <br/>  
+
+
 
 ## Connect with me  
 <div align="center">
