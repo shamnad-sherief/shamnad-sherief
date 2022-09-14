@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/shamnad_sherief">
+<img src="https://github.com/shamnad-sherief/shamnad-sherief/blob/main/devcard.svg" width="350" align="right">
+</a>
 
 ### Hi there 👋, I'm Shamnad
 
@@ -9,13 +12,14 @@
 - 📫 How to reach me: [Telegram](t.me/shamnad_sherief)
 - ⚡ Visit [my blog](https://deadcoderblog.blogspot.com/)
 
-<br/>  
+
+<br> 
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shamnad-sherief&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br>  
 
 
 ## My Skill Set  
