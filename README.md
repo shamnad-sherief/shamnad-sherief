@@ -91,10 +91,10 @@
 <a href="https://gitlab.com/shamnad-sherief" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/shamnad_sherief](https://stackoverflow.com/users/15167371/shamnad-sherief" target="_blank">
+<a href="https://stackoverflow.com/users/15167371/shamnad-sherief" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/shamnad_sherief](https://medium.com/@shamnad_sherief" target="_blank">
+<a href="https://medium.com/@shamnad_sherief" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
