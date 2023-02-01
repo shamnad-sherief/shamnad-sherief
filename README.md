@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 💞️ I’m looking to collaborate if you have a great Idea
 - 📫 How to reach me: [Telegram](https://t.me/shamnad_sherief)
-- ⚡ Visit [my blog](https://deadcoderblog.blogspot.com/)
+- ⚡ Visit [my blog](https://shamnadsherief.tech/)
 
 
 <br> 
