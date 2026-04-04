@@ -5,9 +5,9 @@
 ### Hi there 👋, I'm Shamnad
 
 - 👋 Hi, I’m Shamnad
-- 📕 I am a student
+- 💻 I am a Flutter Developer
 - 👀 I’m interested in Building full stack apps that help others
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate if you have a great Idea
 - 📫 How to reach me: [Telegram](https://t.me/shamnad_sherief)
 - ⚡ Visit [my blog](https://shamnadsherief.me/)
